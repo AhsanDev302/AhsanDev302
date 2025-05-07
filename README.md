@@ -34,7 +34,7 @@ I specialize in designing clean, scalable, and high-performance applications usi
 ### 🏆 Highlight Project
 
 🔗 [**IlovePDF.biz**](https://www.ilovepdf.biz)  
-> A live PDF management web application used by real users — built with Laravel and Vue.js.  
+> A live PDF management web application used by real users — built with Laravel.  
 > A revenue-generating tool that solves real-world document conversion needs.
 
 ---
