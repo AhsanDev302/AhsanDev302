@@ -56,8 +56,6 @@ I specialize in designing clean, scalable, and high-performance applications usi
 **Vue.js Developer**  
 **React.js Developer**  
 **Nuxt Developer**  
-**Flutter Developer**  
-**Dart Developer**  
 **Next.js Developer**  
 **WordPress Developer**  
 **Android Apps Developer**
