@@ -69,7 +69,7 @@ I specialize in designing clean, scalable, and high-performance applications usi
 
 ### 📫 Let’s Connect
 
-- 📧 **Email:** ahsanbahoo03@gmail.com  
+- 📧 **Email:** ahsanbahoo258@gmail.com  
 - 📱 **Phone:** 0326-6465676  
 - 🔗 **LinkedIn:** [Ahsan Bahoo](https://www.linkedin.com/in/ahsan-bahoo-88575a237)
 
