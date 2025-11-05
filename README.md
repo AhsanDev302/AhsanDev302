@@ -33,6 +33,13 @@ I specialize in designing clean, scalable, and high-performance applications usi
 ### 🏆 Highlight Project
 
 🔗 [**IlovePDF.biz**](https://www.ilovepdf.biz)  
+🔗 [**PDFConvertly.com**](https://pdfconvertly.com/)  
+🔗 [**ImageTranslator.ai**](https://imagetranslator.ai/)  
+🔗 [**Ilovepdf6.com**](https://ilovepdf6.com/)  
+🔗 [**TheImageToText.com**](https://theimagetotext.com/)  
+🔗 [**MathCalculator.co**](https://mathcalculator.co/)  
+🔗 [**PWGenerator.net**](https://pwgenerator.net/)  
+🔗 [**PDF24.ai**](https://pdf24.ai/)
 > A live PDF management web application used by real users — built with Laravel.  
 > A revenue-generating tool that solves real-world document conversion needs.
 
